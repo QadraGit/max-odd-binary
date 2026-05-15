@@ -1,0 +1,6 @@
+This was fun!
+Had to check the other solutions to implement a direct LLVM of all their improvements. Noticed a early O(2n) on most c and c++ implemenations and though it would be a simple catwalk. :) (it was not) BQN is really a awesome lanuage.
+
+SWAR/SIMD hybrid: Unrolled 64-byte processing.
+In-Place Mutation: Zero allocation overhead.
+Moreover, I added the segmentation faults safety, that the other lanuages have per default.
